@@ -5,3 +5,5 @@ Jeg har brugt step in og step over, for at finde ud af hvor en fejl sker, hvis j
 step over er godt at bruge til når jeg vil forbi en kodelinje, og videre til næste linje eller næste kode stykke. 
 Breakpoints blev brugt til at finde passende steder hvor koden gik i baglås, f.eks når en exception breakpoint blev brugt til at vise når man havde ramt 3 gange, men at den ikke ville sige at skibet var sunk
 Step in blev brugt til at finde problemet med boardet, så vi kunne finde ud af hvorfor den ikke ville vise skibbet lodret, men kun vandret til at starte med.
+
+Mappen med billeder er "Mappe til debugging"
